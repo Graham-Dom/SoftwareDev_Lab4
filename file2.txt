@@ -1,2 +1,3 @@
 This is file 2
 All of your base are belong to us
+This is a third line which was added on the master branch
